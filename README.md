@@ -16,5 +16,8 @@ Analyze movie data scraped from websites and APIs.
 ## Project status
 In progress.
 
-Author: **Aidid Alwi**
+## Personal information
+Name: **Aidid Alwi**.
 Date: **Sept 25, 2025*.
+[email](sharifaidid4@gmail.com)
+[Tableau](https://public.tableau.com/app/profile/aidid.alwi)
