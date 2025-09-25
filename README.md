@@ -33,7 +33,10 @@ pip install -r requirements.txt
 
 
 ## Project Structure
-movie-analytics-project/
+## Project Structure
+
+```text
+Movie_Analytics_Project/
 ├── data/
 │   ├── raw/          # Raw scraped data (not pushed to GitHub)
 │   └── processed/    # Cleaned & enriched data
@@ -49,6 +52,7 @@ movie-analytics-project/
 │   └── dashboards/         # Tableau exports or screenshots
 ├── README.md
 └── requirements.txt
+
 
 ## Data
 **1** Extraction (Scraping + API)
